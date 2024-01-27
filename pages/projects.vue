@@ -1,0 +1,47 @@
+<template>
+  <main class="min-h-screen">
+    <AppHeader class="mb-12" title="Projects" :description="description" />
+    <div class="space-y-4 mt-8">
+      <h2
+        class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
+      >
+        BSP Yocto Raspberry PI4 avec lecture de vidéos 4k
+      </h2>
+      <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
+        <p>Création d'un BSP sur la dernière version Yocto LTS</p>
+        <p>Environnement de compilation sous Docker</p>
+        <p>
+          Configuration pour une machine Raspberry PI 4, Kernel 64bits 6.1 LTS
+        </p>
+        <p>Intégration d'un système de mise à jour OTA (u-boot, RAUC)</p>
+        <p>Optimisation pour la lecture de vidéos 4k sur HDMI via GPU</p>
+      </div>
+    </div>
+    <div class="space-y-4 mt-8">
+      <h2
+        class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
+      >
+        BSP Yocto Raspberry Compute Module 4, custom hardware
+      </h2>
+      <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
+        <p>Création d'un BSP sur la dernière version Yocto LTS</p>
+        <p>Environnement de compilation sous Docker</p>
+        <p>
+          Configuration pour une machine Raspberry CM4, Kernel 64bits 6.1 LTS
+        </p>
+        <p>Intégration d'un système de mise à jour OTA (u-boot, RAUC)</p>
+        <p>Customisation du kernel pour une custom carrier board</p>
+        <p>Dockerisation de l'applicatif</p>
+      </div>
+    </div>
+  </main>
+</template>
+
+<script setup>
+const description =
+  "J'ai travaillé sur beaucoup de projets graviant autour de l'IoT et des systèmes embarqués. Voila une liste de certains de ces projets et quelques détails techninques sur les solutions mise en oeuvre.";
+useSeoMeta({
+  title: "Projects | Pierrick Curt",
+  description,
+});
+</script>
