@@ -11,7 +11,7 @@
     <h1
       class="text-xl font-bold tracking-tight text-gray-800 dark:text-gray-100"
     >
-      Bonjour!
+      Bonjour !
     </h1>
     <p class="text-gray-900 dark:text-gray-400 text-justify">
       Je suis Pierrick, freelance en développement embarqué basé à Lyon.
