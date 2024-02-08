@@ -14,7 +14,7 @@
           Configuration pour une machine Raspberry PI 4, Kernel 64bits 6.1 LTS
         </p>
         <p>Intégration d'un système de mise à jour OTA (u-boot, RAUC)</p>
-        <p>Optimisation pour la lecture de vidéos 4k sur HDMI via GPU</p>
+        <p>Optimisation pour la lecture de vidéos 4K sur HDMI via GPU</p>
       </div>
     </div>
     <div class="space-y-4 mt-8">
