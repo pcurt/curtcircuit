@@ -22,7 +22,7 @@
     </p>
     <p class="text-gray-900 dark:text-gray-400 text-justify">
       Je développe également des produits d'IoT open source, le premier produit
-      étant une box domotique MAPIO. Pour en savoir plus rendez vous sur le site
+      étant une box domotique MAPIO. Pour en savoir plus rendez-vous sur le site
       de l'entreprise:
       <a href="https://iotheque.com" target="_blank" class="underline"
         >IOTheque</a

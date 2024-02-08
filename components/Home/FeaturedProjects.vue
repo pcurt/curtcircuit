@@ -16,14 +16,14 @@
           Configuration pour une machine Raspberry PI 4, Kernel 64bits 6.1 LTS
         </p>
         <p>Intégration d'un système de mise à jour OTA (u-boot, RAUC)</p>
-        <p>Optimisation pour la lecture de vidéos 4k sur HDMI via GPU</p>
+        <p>Optimisation pour la lecture de vidéos 4K sur HDMI via GPU</p>
       </div>
     </div>
     <div class="space-y-4 mt-8">
       <h2
         class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
       >
-        BSP Yocto Raspberry Compute Module 4, custom hardaware
+        BSP Yocto Raspberry Compute Module 4, custom hardware
       </h2>
       <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
         <p>Création d'un BSP sur la dernière version Yocto LTS</p>
