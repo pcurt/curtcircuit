@@ -5,6 +5,29 @@
       <h2
         class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
       >
+        Firmware Rust no std sur ESP32 avec communication Lorawan 
+      </h2>
+      <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
+        <p>Firmware pour ESP32 basé sur ESP-HAL (no std) et embassy</p>
+        <p>Gestion communication Lorawan</p>
+        <p>Gestion deep sleep</p>
+      </div>
+    </div>
+    <div class="space-y-4 mt-8">
+      <h2
+        class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
+      >
+        Intégration du GPU Vivante sur IMX6
+      </h2>
+      <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
+        <p>Intégration driver GPU Yocto</p>
+        <p>Benchmark du GPU</p>
+      </div>
+    </div>
+    <div class="space-y-4 mt-8">
+      <h2
+        class="text-base font-semibold font-display tracking-tight text-gray-800 dark:text-gray-100 group-hover:text-primary-600"
+      >
         BSP Yocto Raspberry PI4 avec lecture de vidéos 4k
       </h2>
       <div class="relative z-10 mt-2 text-sm text-gray-600 dark:text-gray-400">
